@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    "target": "es6",
+    "outDir": "dist",
+    "moduleResolution": "node",
+    "pretty": true,
+    "baseUrl": "src",
+    "lib": ["es2017"],
+    "paths": {
+      "sort-algorithms*": ["sort-algorithms*"]
+    }
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
