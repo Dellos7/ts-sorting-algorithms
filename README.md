@@ -5,8 +5,8 @@
 
 - Insertion sort. **O(n^2)**
 - Bubble sort. **O(n^2)**
-- Merge sort. **~ O(n·log n)**
-- Quick sort. **~ O(n·log n)**
+- Merge sort. **\~O(n·log n)**
+- Quick sort. **\~O(n·log n)**
 
 ## Run
 
